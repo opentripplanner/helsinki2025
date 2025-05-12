@@ -9,7 +9,10 @@ on:
 jobs:
   html:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 2
+    concurrency:
+      group: ci
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
 
@@ -21,7 +24,6 @@ jobs:
 
       - name: Push latest HTML
         run: |
-          sleep 45
           git config --global user.email 'otp-bot@opentripplanner.org'
           git config --global user.name 'OTP Bot'
           git add *.html
