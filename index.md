@@ -11,8 +11,9 @@ The event is free.
 
 ## Location
 
-VR Helsinki
-Finland
+VR Offices  
+Radiokatu 3  
+FI-00240 Helsinki
 
 ## Who will be there?
 
