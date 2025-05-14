@@ -19,7 +19,7 @@ Helsinki
 and
 
 HSL Helsinki  
-Opastinkuja 6
+Opastinkuja 6  
 Helsinki 
 
 ## Who will be there?
