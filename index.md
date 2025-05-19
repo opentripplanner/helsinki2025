@@ -16,12 +16,22 @@ On Monday, 15th and Tuesday, 16th of September we will hold a mix of talks and n
 are broad in scope and aimed at product owners, decision makers, developers and everyone interested
 in OTP.
 
-They will be held at
+The talks will include the following topics
+
+- Getting Started with OTP
+- Multimodal Mobility & Routing
+- Real-Time & Reliability
+- Customization & Extensibility
+- Frontend & UX
+- Analytics & Planning
+
+A full schedule of talks will be published soon.
+
+Monday and Tuesday will be held at
 
 VR Offices ([OSM](https://www.openstreetmap.org/way/445089820), [Google Maps](https://maps.app.goo.gl/Chwx64ioQZSgRzG28))  
 Radiokatu 3  
 Helsinki
-
 
 Wednesday to Friday will be a developer-focussed working meeting. In order to get a lot of value
 out of it, you should be familiar with OTP development. It will be at:
