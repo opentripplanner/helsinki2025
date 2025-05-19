@@ -1,6 +1,6 @@
 ---
 title: Worldwide OTP Summit 2025 Helsinki
-date: September 15-19 2025
+date: September 15th-19th 2025
 ---
 
 The worldwide community is meeting in September in Helsinki, Finland to discuss all kinds of topics around OTP 
