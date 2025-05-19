@@ -18,7 +18,7 @@ in OTP.
 
 They will be held at
 
-VR Offices [OSM](https://www.openstreetmap.org/way/445089820) [Google Maps](https://maps.app.goo.gl/Chwx64ioQZSgRzG28)
+VR Offices ([OSM](https://www.openstreetmap.org/way/445089820), [Google Maps](https://maps.app.goo.gl/Chwx64ioQZSgRzG28))  
 Radiokatu 3  
 Helsinki
 
