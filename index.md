@@ -10,22 +10,30 @@ It is aimed at OTP users and interested parties at all levels of knowledge and e
 
 The event is free.
 
-## Location
+## Programme
 
-VR Offices  
+On Monday, 15th and Tuesday, 16th of September we will hold a mix of talks and networking events that 
+are broad in scope and aimed at product owners, decision makers, developers and everyone interested
+in OTP.
+
+They will be held at
+
+VR Offices [OSM](https://www.openstreetmap.org/way/445089820) [Google Maps](https://maps.app.goo.gl/Chwx64ioQZSgRzG28)
 Radiokatu 3  
 Helsinki
 
-and
 
-HSL Helsinki  
+Wednesday to Friday will be a developer-focussed working meeting. In order to get a lot of value
+out of it, you should be familiar with OTP development. It will be at:
+
+HSL Helsinki
 Opastinkuja 6  
 Helsinki 
 
 ## Who will be there?
 
-Everyone interested in OTP is welcome and there will be a mix of experts and beginners. You can
-expect both technical as well as product and community-oriented talks.
+Everyone interested in OTP is welcome, and there will be a mix of experts and beginners. You can
+expect both technical and product and community-oriented talks.
 
 It will be a great opportunity to meet everyone involved in OTP.
 
