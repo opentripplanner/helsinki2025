@@ -36,7 +36,7 @@ Helsinki
 Wednesday to Friday will be a developer-focussed working meeting. In order to get a lot of value
 out of it, you should be familiar with OTP development. It will be at:
 
-HSL Helsinki
+HSL Helsinki  
 Opastinkuja 6  
 Helsinki 
 
