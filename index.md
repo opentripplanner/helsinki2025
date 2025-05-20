@@ -10,6 +10,10 @@ It is aimed at OTP users and interested parties at all levels of knowledge and e
 
 The event is free.
 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdR363ujobEKi5g_cP96r6X4UVhGy2J7pyir5dbX-u9eQCJRg/viewform?usp=dialog" target="_blank">
+ <button >Register</button>
+</a>
+
 ## Programme
 
 ### Monday and Tuesday: product owners, decision makers, developers
@@ -41,7 +45,7 @@ Wednesday to Friday will be a developer-focussed working meeting. In order to ge
 out of it, you should be familiar with OTP development. It will be at:
 
 HSL Helsinki  
-Opastinkuja 6  
+Opastinsilta 6  
 Helsinki 
 
 ## Register
