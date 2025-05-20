@@ -12,6 +12,8 @@ The event is free.
 
 ## Programme
 
+### Monday and Tuesday: product owners, decision makers, developers
+
 On Monday, 15th and Tuesday, 16th of September we will hold a mix of talks and networking events that 
 are broad in scope and aimed at product owners, decision makers, developers and everyone interested
 in OTP.
@@ -33,12 +35,18 @@ VR Offices ([OSM](https://www.openstreetmap.org/way/445089820), [Google Maps](ht
 Radiokatu 3  
 Helsinki
 
+### Wednesday to Friday: developers
+
 Wednesday to Friday will be a developer-focussed working meeting. In order to get a lot of value
 out of it, you should be familiar with OTP development. It will be at:
 
 HSL Helsinki  
 Opastinkuja 6  
 Helsinki 
+
+## Register
+
+Please register to attend the event by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSdR363ujobEKi5g_cP96r6X4UVhGy2J7pyir5dbX-u9eQCJRg/viewform?usp=dialog).
 
 ## Who will be there?
 
