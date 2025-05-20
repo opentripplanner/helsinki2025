@@ -14,7 +14,7 @@ The event is free.
  <button >Register</button>
 </a>
 
-## Programme
+## Schedule
 
 ### Monday and Tuesday: product owners, decision makers, developers
 
