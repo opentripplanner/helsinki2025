@@ -46,7 +46,8 @@ Helsinki
 
 ## Register
 
-Please register to attend the event by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSdR363ujobEKi5g_cP96r6X4UVhGy2J7pyir5dbX-u9eQCJRg/viewform?usp=dialog).
+Please register to attend the event by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSdR363ujobEKi5g_cP96r6X4UVhGy2J7pyir5dbX-u9eQCJRg/viewform?usp=dialog)
+as it helps us to plan the event better.
 
 ## Who will be there?
 
