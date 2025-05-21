@@ -27,6 +27,7 @@ jobs:
         run: |
           git config --global user.email 'otp-bot@opentripplanner.org'
           git config --global user.name 'OTP Bot'
+          git pull
           git add *.html
           git commit -m "Add compiled HTML" || true
           git push
