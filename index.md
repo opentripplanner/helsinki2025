@@ -41,16 +41,16 @@ Helsinki
 
 ### Wednesday to Friday: developers
 
-Wednesday to Friday will be a developer-focussed working meeting. In order to get a lot of value
+Wednesday to Friday will be a developer-focussed working meeting. To get a lot of value
 out of it, you should be familiar with OTP development. It will be at:
 
-HSL Helsinki  
+HSL Helsinki ([OSM](https://www.openstreetmap.org/node/2136579378), [Google Maps](https://maps.app.goo.gl/32ER7zoCjRn56u1v7))  
 Opastinsilta 6  
 Helsinki 
 
 ## Register
 
-Please register to attend the event by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSdR363ujobEKi5g_cP96r6X4UVhGy2J7pyir5dbX-u9eQCJRg/viewform?usp=dialog)
+Please register to attend by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSdR363ujobEKi5g_cP96r6X4UVhGy2J7pyir5dbX-u9eQCJRg/viewform?usp=dialog)
 as it helps us to plan the event better.
 
 ## Who will be there?
