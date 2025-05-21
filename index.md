@@ -62,6 +62,8 @@ It will be a great opportunity to meet everyone involved in OTP.
 
 ## Partners
 
+![VR](img/vr.png)
+![Fintraffic](img/fintraffic.png)
 ![HSL](img/hsl.png)
 ![Entur](img/entur.png)
 ![Skanetrafiken](img/skanetrafiken.png)
