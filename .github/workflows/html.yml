@@ -23,15 +23,6 @@ jobs:
       - name: Compile HTML with make/pandoc
         run: make build
 
-      - name: Push latest HTML
-        run: |
-          git config --global user.email 'otp-bot@opentripplanner.org'
-          git config --global user.name 'OTP Bot'
-          git pull
-          git add *.html
-          git commit -m "Add compiled HTML" || true
-          git push
-
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
