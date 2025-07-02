@@ -18,12 +18,30 @@
         display: inline;
       }
 
+      header {
+        position: relative;
+        margin-bottom: 40px;
+      }
+
+      header .logo {
+        position: absolute;
+        bottom: 5px;
+        right: 5px;
+        width: 120px;
+      }
+
     </style>
   </head>
 
   <body>
     <main class="container">
-      <img src="https://docs.opentripplanner.org/en/dev-2.x/images/otp-logo.svg" style="margin:30px auto; display: block">
+
+      <header style="position: relative;">
+        <img class="logo" src="img/otp-logo.svg" >
+        <img src="img/header.jpg" alt="Helsinki">
+      </header>
+
+
       <h1>$title$</h1>
       <h3>$date$</h3>
       $body$

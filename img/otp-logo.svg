@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="256px"
+   height="256px"
+   viewBox="0 0 125.333 125.334"
+   xml:space="preserve"
+   sodipodi:docname="otp-logo.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="5.65625"
+   inkscape:cx="128"
+   inkscape:cy="131.35912"
+   inkscape:window-width="3072"
+   inkscape:window-height="1659"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<ellipse
+   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.58856;stroke-linejoin:bevel"
+   id="path2"
+   cx="62.709774"
+   cy="62.969952"
+   rx="62.537167"
+   ry="62.104382" /><path
+   fill="#2179BF"
+   d="M62.668,0C33.83,0,9.559,19.483,2.258,46l72.681-0.003c4.729-0.011,8.555-3.837,8.561-8.568  c-0.006-4.729-3.831-8.555-8.561-8.559c-4.731,0.004-8.557,3.83-8.564,8.559v4.592h-13.7v-4.592  c0-12.294,9.962-22.261,22.265-22.263c12.298,0.002,22.262,9.969,22.266,22.263c-0.003,12.3-9.968,22.264-22.266,22.271H0.074  C0.028,60.684,0,61.671,0,62.666c0,34.611,28.057,62.668,62.668,62.668c34.609,0,62.665-28.057,62.665-62.668  C125.333,28.057,97.277,0,62.668,0 M92.222,85.667v-3.473v-4.86l-47.058,0.003c-4.729,0.011-8.556,3.837-8.561,8.568  c0.005,4.728,3.831,8.555,8.561,8.559c4.731-0.004,8.558-3.831,8.565-8.559v-4.592h13.699v4.592  c0,12.294-9.961,22.261-22.265,22.263c-12.298-0.002-22.26-9.969-22.264-22.263c0.002-12.3,9.966-22.264,22.264-22.271h47.058V56.12  l21.712,14.775L92.222,85.667z"
+   id="path1"
+   style="fill:#2179bf;fill-opacity:1" />
+</svg>

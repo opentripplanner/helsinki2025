@@ -18,12 +18,30 @@
         display: inline;
       }
 
+      header {
+        position: relative;
+        margin-bottom: 40px;
+      }
+
+      header .logo {
+        position: absolute;
+        bottom: 5px;
+        right: 5px;
+        width: 120px;
+      }
+
     </style>
   </head>
 
   <body>
     <main class="container">
-      <img src="https://docs.opentripplanner.org/en/dev-2.x/images/otp-logo.svg" style="margin:30px auto; display: block">
+
+      <header style="position: relative;">
+        <img class="logo" src="img/otp-logo.svg" >
+        <img src="img/header.jpg" alt="Helsinki">
+      </header>
+
+
       <h1>Worldwide OTP Summit 2025 Helsinki</h1>
       <h3>September 15th-19th 2025</h3>
       <p>The worldwide community is meeting in September in Helsinki,
@@ -35,6 +53,9 @@
       <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdR363ujobEKi5g_cP96r6X4UVhGy2J7pyir5dbX-u9eQCJRg/viewform?usp=dialog" target="_blank">
       <button >Register</button> </a></p>
       <h2 id="schedule">Schedule</h2>
+      <p>The full schedule is available on our <a
+      href="https://github.com/orgs/opentripplanner/projects/4/views/1">Github
+      board</a>.</p>
       <h3
       id="monday-and-tuesday-product-owners-decision-makers-developers">Monday
       and Tuesday: product owners, decision makers, developers</h3>

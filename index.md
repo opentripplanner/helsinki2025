@@ -16,6 +16,8 @@ The event is free.
 
 ## Schedule
 
+The full schedule is available on our [Github board](https://github.com/orgs/opentripplanner/projects/4/views/1).
+
 ### Monday and Tuesday: product owners, decision makers, developers
 
 On Monday, 15th and Tuesday, 16th of September we will hold a mix of talks and networking events that 
