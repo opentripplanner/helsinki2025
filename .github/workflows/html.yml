@@ -2,10 +2,10 @@ name: Build
 
 on:
   push:
-    paths:
-      - '*.md'
-      - 'template.html'
-      - '**/*.yml'
+    #paths:
+    #  - '*.md'
+    #  - 'template.html'
+    #  - '**/*.yml'
 
 jobs:
   html:
