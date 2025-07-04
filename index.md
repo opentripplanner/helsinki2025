@@ -33,8 +33,6 @@ The talks will include the following topics
 - Frontend & UX
 - Analytics & Planning
 
-A full schedule of talks will be published soon.
-
 Monday and Tuesday will be held at
 
 VR Offices ([OSM](https://www.openstreetmap.org/way/445089820), [Google Maps](https://maps.app.goo.gl/Chwx64ioQZSgRzG28))  
