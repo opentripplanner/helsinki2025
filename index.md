@@ -24,6 +24,12 @@ On Monday, 15th and Tuesday, 16th of September we will hold a mix of talks and n
 are broad in scope and aimed at product owners, decision makers, developers and everyone interested
 in OTP.
 
+At those days we are at
+
+VR Offices ([OSM](https://www.openstreetmap.org/way/445089820), [Google Maps](https://maps.app.goo.gl/Chwx64ioQZSgRzG28))  
+Radiokatu 3  
+Helsinki
+
 The talks will include the following topics
 
 - Getting Started with OTP
@@ -32,12 +38,6 @@ The talks will include the following topics
 - Customization & Extensibility
 - Frontend & UX
 - Analytics & Planning
-
-Monday and Tuesday will be held at
-
-VR Offices ([OSM](https://www.openstreetmap.org/way/445089820), [Google Maps](https://maps.app.goo.gl/Chwx64ioQZSgRzG28))  
-Radiokatu 3  
-Helsinki
 
 ### Wednesday to Friday: developers
 
