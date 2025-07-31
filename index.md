@@ -62,7 +62,7 @@ It will be a great opportunity to meet everyone involved in OTP.
 
 ## Contact
 
-Should you have any questions, please email [brede.dammen@entur.org](mailto:brede.dammen@entur.org)
+Should you have any questions, please email [brede.dammen@entur.org](mailto:brede.dammen@entur.org) or 
 [mail@leonard.io](mailto:mail@leonard.io) or join the [Gitter chat](https://gitter.im/opentripplanner/OpenTripPlanner).
 
 ## Partners
