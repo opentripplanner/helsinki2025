@@ -41,8 +41,9 @@ The talks will include the following topics
 
 ### Wednesday to Friday: developers
 
-Wednesday to Friday will be a developer-focussed working meeting. To get a lot of value
-out of it, you should be familiar with OTP development. It will be at:
+Wednesday to Friday will be a developer-focused working meeting. It will consist mostly of unorganized
+work either alone or in small groups, but there also might be short organized workshops and/or presentations.
+To get a lot of value out of it, you should be familiar with developing OTP itself. It will be at:
 
 HSL Helsinki ([OSM](https://www.openstreetmap.org/node/2136579378), [Google Maps](https://maps.app.goo.gl/32ER7zoCjRn56u1v7))  
 Opastinsilta 6  
