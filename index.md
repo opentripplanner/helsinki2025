@@ -30,6 +30,11 @@ VR Offices ([OSM](https://www.openstreetmap.org/way/445089820), [Google Maps](ht
 Radiokatu 3  
 Helsinki
 
+![Iso Paja](img/isopaja.jpg)
+©VR Group
+
+Arrival to the building is through the main entrance (located in the center of the picture above). On Monday morning, there will be name badges available near the reception on the first floor. The rooms we use are also on the first floor.
+
 The talks will include the following topics
 
 - Getting Started with OTP
