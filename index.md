@@ -26,7 +26,7 @@ in OTP.
 
 At those days we are at
 
-VR Office ([OSM](https://www.openstreetmap.org/way/445089820), [Google Maps](https://maps.app.goo.gl/Chwx64ioQZSgRzG28))  
+VR Office ([OSM](https://www.openstreetmap.org/way/445089820), [Google Maps](https://maps.app.goo.gl/Chwx64ioQZSgRzG28), [HSL Journey Planner](https://reittiopas.hsl.fi/en/reitti/POS/Iso%20Paja%2C%20Radiokatu%205%2C%20Helsinki%3A%3A60.203383%2C24.924894/?arriveBy=true&time=1757916000))  
 Radiokatu 3  
 Helsinki
 
@@ -51,7 +51,7 @@ Wednesday to Friday will be a developer-focused working meeting. It will consist
 work either alone or in small groups, but there also might be short organized workshops and/or presentations.
 To get a lot of value out of it, you should be familiar with developing OTP itself. It will be at:
 
-HSL Office ([OSM](https://www.openstreetmap.org/node/2136579378), [Google Maps](https://maps.app.goo.gl/32ER7zoCjRn56u1v7))  
+HSL Office ([OSM](https://www.openstreetmap.org/node/2136579378), [Google Maps](https://maps.app.goo.gl/32ER7zoCjRn56u1v7), [HSL Journey Planner](https://reittiopas.hsl.fi/en/reitti/POS/Opastinsilta%206A%2C%20Helsinki%3A%3A60.199146%2C24.940544?arriveBy=true&time=1758088800))  
 Opastinsilta 6  
 Helsinki
 
