@@ -26,11 +26,12 @@ in OTP.
 
 At those days we are at
 
-VR Offices ([OSM](https://www.openstreetmap.org/way/445089820), [Google Maps](https://maps.app.goo.gl/Chwx64ioQZSgRzG28))  
+VR Office ([OSM](https://www.openstreetmap.org/way/445089820), [Google Maps](https://maps.app.goo.gl/Chwx64ioQZSgRzG28))  
 Radiokatu 3  
 Helsinki
 
 ![Iso Paja](img/isopaja.jpg)
+
 ©VR Group
 
 Arrival to the building is through the main entrance (located in the center of the picture above). On Monday morning, there will be name badges available near the reception on the first floor. The rooms we use are also on the first floor.
@@ -50,9 +51,13 @@ Wednesday to Friday will be a developer-focused working meeting. It will consist
 work either alone or in small groups, but there also might be short organized workshops and/or presentations.
 To get a lot of value out of it, you should be familiar with developing OTP itself. It will be at:
 
-HSL Helsinki ([OSM](https://www.openstreetmap.org/node/2136579378), [Google Maps](https://maps.app.goo.gl/32ER7zoCjRn56u1v7))  
+HSL Office ([OSM](https://www.openstreetmap.org/node/2136579378), [Google Maps](https://maps.app.goo.gl/32ER7zoCjRn56u1v7))  
 Opastinsilta 6  
-Helsinki 
+Helsinki
+
+![HSL Office](img/hsloffice.jpg)
+
+Arrival to the office is from Opastinsilta through the court yard. The entrance is on the corner shown in the image above. Ring a door bell to enter the building. The receiption and the room we use are on the 2nd floor.
 
 ## Register
 
