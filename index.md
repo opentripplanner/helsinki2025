@@ -34,7 +34,7 @@ Helsinki
 
 ©VR Group
 
-Arrival to the building is through the main entrance (located in the center of the picture above). On Monday morning, there will be name badges available near the reception on the first floor. The rooms we use are also on the first floor.
+[Here are instructions](https://isopaja.fi/en/home/#location) for how to get to the building (Iso Paja). Entrance to the building is through the main entrance (located in the center of the picture above). On Monday morning, there will be name badges available near the reception on the first floor. The rooms we use are also on the first floor.
 
 The talks will include the following topics
 
